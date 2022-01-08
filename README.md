@@ -1,0 +1,2 @@
+# deneme-git
+git-deneme
